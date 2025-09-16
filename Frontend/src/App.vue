@@ -40,7 +40,7 @@
   flex-direction: column;
   align-items: center;   
   justify-content: center;
-  height: 50%;
+  height: 70%;
 }
 
 .form-group {
