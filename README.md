@@ -10,15 +10,15 @@
 - ## 🚀 วิธีใช้งาน
 
 ### Backend
-cd backend
-go mod tidy
-go run main.go
+- cd backend
+- go mod tidy
+- go run main.go
 
 ### Frontend PORT 5173/5174
-cd frontend
-npm install
-npm run dev/build -> preview
+- cd frontend
+- npm install
+- npm run dev/build -> preview
 
 ### Test
-Backend → ใช้ go test ./...
-Frontend → ใช้ npm run test
+ - Backend → ใช้ go test ./...
+ - Frontend → ใช้ npm run test
